@@ -35,7 +35,7 @@ margin-bottom: 5vh;
 }
 .fireblok h1{
     margin-bottom: 2vh;
-    font-size: 1.2em;
+    font-size: 4em;
 }
 
 a{
@@ -45,4 +45,20 @@ a{
 
 .ref{
     font-size: 0.8em;
+}
+.marginauto{
+    text-align: center;
+}
+#vidtxt{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#vidtxt img{
+    width: 70%;
+    object-fit: cover;
+}
+#vidtxt p{
+    width: 25%;
 }
