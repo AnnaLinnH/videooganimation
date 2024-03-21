@@ -1,7 +1,7 @@
 body{
     background-color: #4C4A33;
     color: #fff;
-    padding: 5vw;
+    padding: 10vw;
 }
 
 h1{
@@ -21,6 +21,20 @@ h2{
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #fff;
+    font-size: 1em;
+}
+
+#firepaastribe{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+margin-bottom: 5vh;
+}
+.fireblok{
+    width: 22%;
+}
+.fireblok h1{
+    margin-bottom: 2vh;
     font-size: 1.2em;
 }
 
