@@ -80,3 +80,19 @@ table {
   th{
     background-color: #889C74;
   }
+.marginauto{
+    text-align: center;
+}
+#vidtxt{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#vidtxt img{
+    width: 70%;
+    object-fit: cover;
+}
+#vidtxt p{
+    width: 25%;
+}
