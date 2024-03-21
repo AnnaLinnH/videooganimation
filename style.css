@@ -35,7 +35,7 @@ margin-bottom: 5vh;
 }
 .fireblok h1{
     margin-bottom: 2vh;
-    font-size: 1.2em;
+    font-size: 4em;
 }
 
 a{
@@ -52,12 +52,31 @@ a{
 .animationskolonne1{
     width: 45%;
     padding-right: 7vw;
+    margin-bottom: 5vw;
 }
 
 .animationskolonne2{
     width: 40%;
+    margin-bottom: 5vw;
 }
 
 .ref{
     font-size: 0.8em;
 }
+
+table {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    background-color: #A9BA9F;
+    text-align: left;
+    padding: 12px;
+    
+  }
+
+  th{
+    background-color: #889C74;
+  }
