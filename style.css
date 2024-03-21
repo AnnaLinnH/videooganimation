@@ -1,0 +1,25 @@
+body{
+    background-color: #4C4A33;
+    color: #fff;
+    padding: 5vw;
+}
+
+h1{
+    font-family: "Playfair Display", serif;
+    font-size: 4em;
+    font-weight: 500;
+    color: #A9BA9F;
+}
+
+h2{
+    font-family: "Playfair Display", serif;
+    font-size: 2.5em;
+    font-weight: 400;
+    color: #fff;
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #fff;
+    font-size: 1em;
+}
