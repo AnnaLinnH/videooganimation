@@ -96,3 +96,29 @@ table {
 #vidtxt p{
     width: 25%;
 }
+#topaastribe{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.toblok{
+    width: 47%;
+    margin-bottom: 10vh;
+    margin-top: 5vh;
+}
+.toblok h1{
+    font-size: 7em;
+    text-align: center;
+}
+.tocirkler{
+    background-image: url(images/tocirkler.png);
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.beige{
+    background-image: url(images/beige.png);
+    background-size: 30%;
+    background-repeat: no-repeat;
+    background-position-y: 5vh;
+    background-position-x: 5%;
+}
