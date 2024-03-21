@@ -21,5 +21,14 @@ h2{
 p{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #fff;
-    font-size: 1em;
+    font-size: 1.2em;
+}
+
+a{
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ref{
+    font-size: 0.8em;
 }
