@@ -47,12 +47,14 @@ a{
     display: flex;
     align-items: center;
     margin-top: 5vw;
+    height: 50vh;
 }
 
 .animationskolonne1{
     width: 45%;
     padding-right: 7vw;
     margin-bottom: 5vw;
+    
 }
 
 .animationskolonne2{
@@ -121,4 +123,11 @@ table {
     background-repeat: no-repeat;
     background-position-y: 5vh;
     background-position-x: 5%;
+}
+iframe{
+    width: 110%;
+    height: 50vh;
+    object-fit: cover;
+    border: none;
+
 }
